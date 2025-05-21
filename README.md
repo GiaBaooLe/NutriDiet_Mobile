@@ -1,6 +1,6 @@
 # diet plan app
 
-Graduation Thesis 
+This is my team's  Graduation Thesis, so I only upload a part of source code
 team member : 4
 
 ## Getting Started
